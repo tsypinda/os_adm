@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-COURSE = 
+COURSE = os2
 
 .PHONY: all clean
 
